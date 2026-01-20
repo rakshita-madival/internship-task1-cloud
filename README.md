@@ -1,3 +1,15 @@
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** Rakshita Madival
+
+**INTERN ID:** CTIS3674
+
+**DOMAIN:** CLOUD COMPUTING
+
+**DURATION:** 4 WEEKS
+
+**MENTOR:** Neela Santosh Kumar
+
 # internship-task1-cloud
 Internship Task-01 — Cloud Storage Setup (AWS S3)
 
